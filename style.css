@@ -57,7 +57,7 @@ transition: 0.2s;
 }
 .tesla_title {
   text-align: center;
-  background-image: url(../IMG/Tesla\ logo\ +\ car.png);
+  background-image: url(Tesla\ logo\ +\ car.png);
   background-size: cover;
   background-repeat: no-repeat;
   min-height: 594px;
