@@ -57,7 +57,7 @@ transition: 0.2s;
 }
 .tesla_title {
   text-align: center;
-  background-image: url(Tesla\ logo\ +\ car.png);
+  background-image: url(../IMG/Tesla\ logo\ +\ car.png);
   background-size: cover;
   background-repeat: no-repeat;
   min-height: 594px;
@@ -160,7 +160,7 @@ vertical-align: middle;
   display: flex;
   justify-content: space-between;
   width: 100%;
-  background-image: url(2013-tesla-model-s-cockpit.png);
+  background-image: url(/IMG/2013-tesla-model-s-cockpit.png);
   background-repeat: no-repeat;
   background-size: contain;
 }
